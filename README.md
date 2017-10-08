@@ -1,28 +1,27 @@
-# This is a large heading
+# D.C. Sullivan
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Cleveland, in Ohio, which is in the United States
+of America.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I love to read, some of my favorite books and authore are:
 
-Here is `some code` in the middle of a sentence.
+- *Jacob Have I Loved* Catherine Patterson
+- Harry Potter Fanfiction
+- Outlander series by Diana Galbodon
+- Any novel by J. California Cooper or Mary Monroe
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+My favorite foods in order are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. White Cake
+2. California Blend Veggies
+3. Fried Cheese
+
+### Smiley Face
+
+:-)
